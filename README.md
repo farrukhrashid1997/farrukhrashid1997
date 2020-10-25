@@ -1,5 +1,5 @@
 ## Hello, Folks!
-My name is Farrukh Bin Rashid and I am a Software Engineer. I am from Pakistan, living in Dubai, UAE and currently working at Nagarro. You can find me on [<img alt="Farrukh Bin Rashid | LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+My name is Farrukh Bin Rashid and I am a Software Engineer. I am from Pakistan, living in Dubai, UAE and currently working at Nagarro. You can find me on [<img alt="Farrukh Bin Rashid | LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <img src="https://github.com/farrukhrashid1997/farrukhrashid1997/blob/main/wave.gif" width="30px">
 
 ### Languages and Tools:
 
