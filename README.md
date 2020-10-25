@@ -22,8 +22,12 @@ My name is Farrukh Bin Rashid and I am a Software Engineer. I am from Pakistan, 
 <br/>
 <br/>
 
+---
+<br/>
+<br/>
+
 ![Farrukhs's github stats](https://github-readme-stats.vercel.app/api?username=farrukhrashid1997&count_private=true&show_icons=true&theme=vue-dark)
 ![Farrukh's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhrashid1997&count_private=true&hide=jupyter%20notebook&layout=compact&theme=vue-dark)
 
 
-[linkedin]: https://linkedin.com/in/rajahasnain570
+[linkedin]: https://linkedin.com/in/farrukh-rashid-1b3741176/
