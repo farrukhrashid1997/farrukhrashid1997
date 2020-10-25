@@ -1,5 +1,5 @@
-## Hi there, this is Farrukh!
-I’m am learning everything 🤓
+## Hello, Folks!
+My name is Farrukh Bin Rashid and I am a Software Engineer. I am from Pakistan, living in Dubai, UAE and currently working at Nagarro. You can find me on [<img align="left" alt="Farrukh Bin Rashid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages and Tools:
 
@@ -17,15 +17,12 @@ I’m am learning everything 🤓
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
-<br />
 
-### Connect with me:
-
-[<img align="left" alt="rhasnainanwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ---
 
 ![Farrukhs's github stats](https://github-readme-stats.vercel.app/api?username=farrukhrashid1997&count_private=true&show_icons=true&theme=vue-dark)
 ![Farrukh's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farrukhrashid1997&count_private=true&hide=jupyter%20notebook&layout=compact&theme=vue-dark)
+
+
+[linkedin]: https://linkedin.com/in/rajahasnain570
